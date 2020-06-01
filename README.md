@@ -1,3 +1,3 @@
 # Scylla Docs Issues
 
-This repo is used to reports issues on [Scylla Docs](http://docs.scylladb.com) and nothing else
+This repo is used collect and report issues found in [Scylla Docs](http://docs.scylladb.com) and nothing else. 
