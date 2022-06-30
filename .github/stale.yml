@@ -6,6 +6,7 @@ daysUntilClose: 15
 exemptLabels:
   - high
   - security
+  - pending
   - "help wanted"
   - pending
 # Label to use when marking an issue as stale
